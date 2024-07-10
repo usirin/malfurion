@@ -2,5 +2,8 @@
 name = "malfurion"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "A shapeshifter for your typescript codebase. Tool for building codemods"
+repository = "https://github.com/usirin/malfurion"
 
 [dependencies]
